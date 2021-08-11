@@ -1,0 +1,2 @@
+C:\Users\MONSTER\source\repos\YazOkuluDersler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\MONSTER\source\repos\YazOkuluDersler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache

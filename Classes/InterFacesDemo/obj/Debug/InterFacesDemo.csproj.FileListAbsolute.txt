@@ -1,0 +1,7 @@
+C:\Users\MONSTER\source\repos\Classes\InterFacesDemo\bin\Debug\InterFacesDemo.exe.config
+C:\Users\MONSTER\source\repos\Classes\InterFacesDemo\bin\Debug\InterFacesDemo.exe
+C:\Users\MONSTER\source\repos\Classes\InterFacesDemo\bin\Debug\InterFacesDemo.pdb
+C:\Users\MONSTER\source\repos\Classes\InterFacesDemo\obj\Debug\InterFacesDemo.csprojAssemblyReference.cache
+C:\Users\MONSTER\source\repos\Classes\InterFacesDemo\obj\Debug\InterFacesDemo.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\Classes\InterFacesDemo\obj\Debug\InterFacesDemo.exe
+C:\Users\MONSTER\source\repos\Classes\InterFacesDemo\obj\Debug\InterFacesDemo.pdb

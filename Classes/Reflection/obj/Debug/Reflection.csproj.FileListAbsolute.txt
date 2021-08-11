@@ -1,0 +1,7 @@
+C:\Users\MONSTER\source\repos\Classes\Reflection\bin\Debug\Reflection.exe.config
+C:\Users\MONSTER\source\repos\Classes\Reflection\bin\Debug\Reflection.exe
+C:\Users\MONSTER\source\repos\Classes\Reflection\bin\Debug\Reflection.pdb
+C:\Users\MONSTER\source\repos\Classes\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\Classes\Reflection\obj\Debug\Reflection.exe
+C:\Users\MONSTER\source\repos\Classes\Reflection\obj\Debug\Reflection.pdb
+C:\Users\MONSTER\source\repos\Classes\Reflection\obj\Debug\Reflection.csprojAssemblyReference.cache

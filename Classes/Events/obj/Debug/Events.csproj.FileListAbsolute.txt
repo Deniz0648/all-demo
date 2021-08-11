@@ -1,0 +1,7 @@
+C:\Users\MONSTER\source\repos\Classes\Events\bin\Debug\Events.exe.config
+C:\Users\MONSTER\source\repos\Classes\Events\bin\Debug\Events.exe
+C:\Users\MONSTER\source\repos\Classes\Events\bin\Debug\Events.pdb
+C:\Users\MONSTER\source\repos\Classes\Events\obj\Debug\Events.csprojAssemblyReference.cache
+C:\Users\MONSTER\source\repos\Classes\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\Classes\Events\obj\Debug\Events.exe
+C:\Users\MONSTER\source\repos\Classes\Events\obj\Debug\Events.pdb

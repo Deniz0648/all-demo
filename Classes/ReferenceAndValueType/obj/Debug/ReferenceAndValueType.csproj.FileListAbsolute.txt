@@ -1,0 +1,7 @@
+C:\Users\MONSTER\source\repos\Classes\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.exe.config
+C:\Users\MONSTER\source\repos\Classes\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.exe
+C:\Users\MONSTER\source\repos\Classes\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.pdb
+C:\Users\MONSTER\source\repos\Classes\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\Classes\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.exe
+C:\Users\MONSTER\source\repos\Classes\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.pdb
+C:\Users\MONSTER\source\repos\Classes\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.csprojAssemblyReference.cache

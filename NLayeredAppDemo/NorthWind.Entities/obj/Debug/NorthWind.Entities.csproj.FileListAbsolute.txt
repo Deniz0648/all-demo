@@ -1,0 +1,12 @@
+C:\Users\MONSTER\source\repos\NLayeredAppDemo\NorthWind.Entities\bin\Debug\NorthWind.Entities.dll.config
+C:\Users\MONSTER\source\repos\NLayeredAppDemo\NorthWind.Entities\bin\Debug\NorthWind.Entities.dll
+C:\Users\MONSTER\source\repos\NLayeredAppDemo\NorthWind.Entities\bin\Debug\NorthWind.Entities.pdb
+C:\Users\MONSTER\source\repos\NLayeredAppDemo\NorthWind.Entities\bin\Debug\EntityFramework.dll
+C:\Users\MONSTER\source\repos\NLayeredAppDemo\NorthWind.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MONSTER\source\repos\NLayeredAppDemo\NorthWind.Entities\bin\Debug\EntityFramework.xml
+C:\Users\MONSTER\source\repos\NLayeredAppDemo\NorthWind.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MONSTER\source\repos\NLayeredAppDemo\NorthWind.Entities\obj\Debug\NorthWind.Entities.csprojAssemblyReference.cache
+C:\Users\MONSTER\source\repos\NLayeredAppDemo\NorthWind.Entities\obj\Debug\NorthWind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\NLayeredAppDemo\NorthWind.Entities\obj\Debug\NorthWind.Entities.csproj.CopyComplete
+C:\Users\MONSTER\source\repos\NLayeredAppDemo\NorthWind.Entities\obj\Debug\NorthWind.Entities.dll
+C:\Users\MONSTER\source\repos\NLayeredAppDemo\NorthWind.Entities\obj\Debug\NorthWind.Entities.pdb

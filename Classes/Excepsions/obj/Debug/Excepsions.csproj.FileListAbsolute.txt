@@ -1,0 +1,7 @@
+C:\Users\MONSTER\source\repos\Classes\Excepsions\bin\Debug\Excepsions.exe.config
+C:\Users\MONSTER\source\repos\Classes\Excepsions\bin\Debug\Excepsions.exe
+C:\Users\MONSTER\source\repos\Classes\Excepsions\bin\Debug\Excepsions.pdb
+C:\Users\MONSTER\source\repos\Classes\Excepsions\obj\Debug\Excepsions.csprojAssemblyReference.cache
+C:\Users\MONSTER\source\repos\Classes\Excepsions\obj\Debug\Excepsions.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\Classes\Excepsions\obj\Debug\Excepsions.exe
+C:\Users\MONSTER\source\repos\Classes\Excepsions\obj\Debug\Excepsions.pdb

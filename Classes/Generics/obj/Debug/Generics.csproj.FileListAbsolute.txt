@@ -1,0 +1,6 @@
+C:\Users\MONSTER\source\repos\Classes\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\Classes\Generics\bin\Debug\Generics.exe.config
+C:\Users\MONSTER\source\repos\Classes\Generics\bin\Debug\Generics.exe
+C:\Users\MONSTER\source\repos\Classes\Generics\bin\Debug\Generics.pdb
+C:\Users\MONSTER\source\repos\Classes\Generics\obj\Debug\Generics.exe
+C:\Users\MONSTER\source\repos\Classes\Generics\obj\Debug\Generics.pdb

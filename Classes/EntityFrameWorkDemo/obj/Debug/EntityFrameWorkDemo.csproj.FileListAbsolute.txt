@@ -1,0 +1,15 @@
+C:\Users\MONSTER\source\repos\Classes\EntityFrameWorkDemo\bin\Debug\EntityFrameWorkDemo.exe.config
+C:\Users\MONSTER\source\repos\Classes\EntityFrameWorkDemo\bin\Debug\EntityFrameWorkDemo.exe
+C:\Users\MONSTER\source\repos\Classes\EntityFrameWorkDemo\bin\Debug\EntityFrameWorkDemo.pdb
+C:\Users\MONSTER\source\repos\Classes\EntityFrameWorkDemo\bin\Debug\EntityFramework.dll
+C:\Users\MONSTER\source\repos\Classes\EntityFrameWorkDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MONSTER\source\repos\Classes\EntityFrameWorkDemo\bin\Debug\EntityFramework.xml
+C:\Users\MONSTER\source\repos\Classes\EntityFrameWorkDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MONSTER\source\repos\Classes\EntityFrameWorkDemo\obj\Debug\EntityFrameWorkDemo.csprojAssemblyReference.cache
+C:\Users\MONSTER\source\repos\Classes\EntityFrameWorkDemo\obj\Debug\EntityFrameWorkDemo.Form1.resources
+C:\Users\MONSTER\source\repos\Classes\EntityFrameWorkDemo\obj\Debug\EntityFrameWorkDemo.Properties.Resources.resources
+C:\Users\MONSTER\source\repos\Classes\EntityFrameWorkDemo\obj\Debug\EntityFrameWorkDemo.csproj.GenerateResource.cache
+C:\Users\MONSTER\source\repos\Classes\EntityFrameWorkDemo\obj\Debug\EntityFrameWorkDemo.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\Classes\EntityFrameWorkDemo\obj\Debug\EntityFrameWorkDemo.csproj.CopyComplete
+C:\Users\MONSTER\source\repos\Classes\EntityFrameWorkDemo\obj\Debug\EntityFrameWorkDemo.exe
+C:\Users\MONSTER\source\repos\Classes\EntityFrameWorkDemo\obj\Debug\EntityFrameWorkDemo.pdb

@@ -1,0 +1,10 @@
+C:\Users\MONSTER\source\repos\Classes\RecapDemo\bin\Debug\RecapDemo.exe.config
+C:\Users\MONSTER\source\repos\Classes\RecapDemo\bin\Debug\RecapDemo.exe
+C:\Users\MONSTER\source\repos\Classes\RecapDemo\bin\Debug\RecapDemo.pdb
+C:\Users\MONSTER\source\repos\Classes\RecapDemo\obj\Debug\RecapDemo1.csprojAssemblyReference.cache
+C:\Users\MONSTER\source\repos\Classes\RecapDemo\obj\Debug\RecapDemo.Form1.resources
+C:\Users\MONSTER\source\repos\Classes\RecapDemo\obj\Debug\RecapDemo.Properties.Resources.resources
+C:\Users\MONSTER\source\repos\Classes\RecapDemo\obj\Debug\RecapDemo1.csproj.GenerateResource.cache
+C:\Users\MONSTER\source\repos\Classes\RecapDemo\obj\Debug\RecapDemo1.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\Classes\RecapDemo\obj\Debug\RecapDemo.exe
+C:\Users\MONSTER\source\repos\Classes\RecapDemo\obj\Debug\RecapDemo.pdb

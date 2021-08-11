@@ -1,0 +1,11 @@
+C:\Users\MONSTER\source\repos\Classes\AccessModifiersDemo\bin\Debug\AccessModifiersDemo.exe.config
+C:\Users\MONSTER\source\repos\Classes\AccessModifiersDemo\bin\Debug\AccessModifiersDemo.exe
+C:\Users\MONSTER\source\repos\Classes\AccessModifiersDemo\bin\Debug\AccessModifiersDemo.pdb
+C:\Users\MONSTER\source\repos\Classes\AccessModifiersDemo\bin\Debug\AccessModifiers.exe
+C:\Users\MONSTER\source\repos\Classes\AccessModifiersDemo\bin\Debug\AccessModifiers.pdb
+C:\Users\MONSTER\source\repos\Classes\AccessModifiersDemo\bin\Debug\AccessModifiers.exe.config
+C:\Users\MONSTER\source\repos\Classes\AccessModifiersDemo\obj\Debug\AccessModifiersDemo.csprojAssemblyReference.cache
+C:\Users\MONSTER\source\repos\Classes\AccessModifiersDemo\obj\Debug\AccessModifiersDemo.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\Classes\AccessModifiersDemo\obj\Debug\AccessModifiersDemo.csproj.CopyComplete
+C:\Users\MONSTER\source\repos\Classes\AccessModifiersDemo\obj\Debug\AccessModifiersDemo.exe
+C:\Users\MONSTER\source\repos\Classes\AccessModifiersDemo\obj\Debug\AccessModifiersDemo.pdb

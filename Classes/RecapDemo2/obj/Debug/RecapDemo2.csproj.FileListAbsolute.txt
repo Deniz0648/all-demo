@@ -1,0 +1,7 @@
+C:\Users\MONSTER\source\repos\Classes\RecapDemo2\bin\Debug\RecapDemo2.exe.config
+C:\Users\MONSTER\source\repos\Classes\RecapDemo2\bin\Debug\RecapDemo2.exe
+C:\Users\MONSTER\source\repos\Classes\RecapDemo2\bin\Debug\RecapDemo2.pdb
+C:\Users\MONSTER\source\repos\Classes\RecapDemo2\obj\Debug\RecapDemo2.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\Classes\RecapDemo2\obj\Debug\RecapDemo2.exe
+C:\Users\MONSTER\source\repos\Classes\RecapDemo2\obj\Debug\RecapDemo2.pdb
+C:\Users\MONSTER\source\repos\Classes\RecapDemo2\obj\Debug\RecapDemo2.csprojAssemblyReference.cache

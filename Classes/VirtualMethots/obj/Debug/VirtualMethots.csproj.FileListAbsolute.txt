@@ -1,0 +1,6 @@
+C:\Users\MONSTER\source\repos\Classes\VirtualMethots\bin\Debug\VirtualMethots.exe.config
+C:\Users\MONSTER\source\repos\Classes\VirtualMethots\bin\Debug\VirtualMethots.exe
+C:\Users\MONSTER\source\repos\Classes\VirtualMethots\bin\Debug\VirtualMethots.pdb
+C:\Users\MONSTER\source\repos\Classes\VirtualMethots\obj\Debug\VirtualMethots.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\Classes\VirtualMethots\obj\Debug\VirtualMethots.exe
+C:\Users\MONSTER\source\repos\Classes\VirtualMethots\obj\Debug\VirtualMethots.pdb

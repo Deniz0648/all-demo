@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DbSınavOgrenciModelStoreContainer" CdmEntityContainer="DbSınavOgrenciEntities">
+    <EntitySetMapping Name="tbl_Dersler">
+      <EntityTypeMapping TypeName="DbSınavOgrenciModel.tbl_Dersler">
+        <MappingFragment StoreEntitySet="tbl_Dersler">
+          <ScalarProperty Name="DERSID" ColumnName="DERSID" />
+          <ScalarProperty Name="DERSAD" ColumnName="DERSAD" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_Notlar">
+      <EntityTypeMapping TypeName="DbSınavOgrenciModel.tbl_Notlar">
+        <MappingFragment StoreEntitySet="tbl_Notlar">
+          <ScalarProperty Name="NOTID" ColumnName="NOTID" />
+          <ScalarProperty Name="OGR" ColumnName="OGR" />
+          <ScalarProperty Name="DERS" ColumnName="DERS" />
+          <ScalarProperty Name="SINAV1" ColumnName="SINAV1" />
+          <ScalarProperty Name="SINAV2" ColumnName="SINAV2" />
+          <ScalarProperty Name="SINAV3" ColumnName="SINAV3" />
+          <ScalarProperty Name="ORT" ColumnName="ORT" />
+          <ScalarProperty Name="DURUM" ColumnName="DURUM" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_Ogrenci">
+      <EntityTypeMapping TypeName="DbSınavOgrenciModel.tbl_Ogrenci">
+        <MappingFragment StoreEntitySet="tbl_Ogrenci">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="AD" ColumnName="AD" />
+          <ScalarProperty Name="SOYAD" ColumnName="SOYAD" />
+          <ScalarProperty Name="FOTOGRAF" ColumnName="FOTOGRAF" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_Kulup">
+      <EntityTypeMapping TypeName="DbSınavOgrenciModel.tbl_Kulup">
+        <MappingFragment StoreEntitySet="tbl_Kulup">
+          <ScalarProperty Name="KulupADI" ColumnName="KulupADI" />
+          <ScalarProperty Name="KulupID" ColumnName="KulupID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="NOTLİSTESİ" FunctionName="DbSınavOgrenciModel.Store.NOTLİSTESİ">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="DbSınavOgrenciModel.NOTLİSTESİ_Result">
+          <ScalarProperty Name="NOTID" ColumnName="NOTID" />
+          <ScalarProperty Name="AD__SOYAD" ColumnName="AD  SOYAD" />
+          <ScalarProperty Name="DERS_ADI" ColumnName="DERS ADI" />
+          <ScalarProperty Name="SINAV1" ColumnName="SINAV1" />
+          <ScalarProperty Name="SINAV2" ColumnName="SINAV2" />
+          <ScalarProperty Name="SINAV3" ColumnName="SINAV3" />
+          <ScalarProperty Name="ORTALAMA" ColumnName="ORTALAMA" />
+          <ScalarProperty Name="DURUM" ColumnName="DURUM" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

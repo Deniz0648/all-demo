@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DbSınavOgrenciModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tbl_Dersler">
+    <Key>
+      <PropertyRef Name="DERSID" />
+    </Key>
+    <Property Name="DERSID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DERSAD" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="tbl_Kulup">
+    <Key>
+      <PropertyRef Name="KulupID" />
+    </Key>
+    <Property Name="KulupID" Type="tinyint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="KulupADI" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="tbl_Notlar">
+    <Key>
+      <PropertyRef Name="NOTID" />
+    </Key>
+    <Property Name="NOTID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="OGR" Type="int" />
+    <Property Name="DERS" Type="int" />
+    <Property Name="SINAV1" Type="smallint" />
+    <Property Name="SINAV2" Type="smallint" />
+    <Property Name="SINAV3" Type="smallint" />
+    <Property Name="ORT" Type="decimal" Precision="5" Scale="2" />
+    <Property Name="DURUM" Type="bit" />
+  </EntityType>
+  <EntityType Name="tbl_Ogrenci">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AD" Type="varchar" MaxLength="50" />
+    <Property Name="SOYAD" Type="varchar" MaxLength="50" />
+    <Property Name="FOTOGRAF" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <Association Name="FK_tbl_Notlar_tbl_Dersler">
+    <End Role="tbl_Dersler" Type="Self.tbl_Dersler" Multiplicity="0..1" />
+    <End Role="tbl_Notlar" Type="Self.tbl_Notlar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbl_Dersler">
+        <PropertyRef Name="DERSID" />
+      </Principal>
+      <Dependent Role="tbl_Notlar">
+        <PropertyRef Name="DERS" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tbl_Notlar_tbl_Ogrenci">
+    <End Role="tbl_Ogrenci" Type="Self.tbl_Ogrenci" Multiplicity="0..1" />
+    <End Role="tbl_Notlar" Type="Self.tbl_Notlar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbl_Ogrenci">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="tbl_Notlar">
+        <PropertyRef Name="OGR" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="NOTLİSTESİ" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <EntityContainer Name="DbSınavOgrenciModelStoreContainer">
+    <EntitySet Name="tbl_Dersler" EntityType="Self.tbl_Dersler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_Kulup" EntityType="Self.tbl_Kulup" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_Notlar" EntityType="Self.tbl_Notlar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_Ogrenci" EntityType="Self.tbl_Ogrenci" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_tbl_Notlar_tbl_Dersler" Association="Self.FK_tbl_Notlar_tbl_Dersler">
+      <End Role="tbl_Dersler" EntitySet="tbl_Dersler" />
+      <End Role="tbl_Notlar" EntitySet="tbl_Notlar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tbl_Notlar_tbl_Ogrenci" Association="Self.FK_tbl_Notlar_tbl_Ogrenci">
+      <End Role="tbl_Ogrenci" EntitySet="tbl_Ogrenci" />
+      <End Role="tbl_Notlar" EntitySet="tbl_Notlar" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

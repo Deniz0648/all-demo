@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="42839f4189504316be4392579f2d43a8" Name="Diagram1">
+        <EntityTypeShape EntityType="DbSınavOgrenciModel.tbl_Dersler" Width="1.5" PointX="0.5" PointY="0.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DbSınavOgrenciModel.tbl_Notlar" Width="1.5" PointX="2.5" PointY="0.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DbSınavOgrenciModel.tbl_Ogrenci" Width="1.5" PointX="4.5" PointY="0.625" IsExpanded="true" />
+        <AssociationConnector Association="DbSınavOgrenciModel.FK_tbl_Notlar_tbl_Dersler" ManuallyRouted="false" />
+        <AssociationConnector Association="DbSınavOgrenciModel.FK_tbl_Notlar_tbl_Ogrenci" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="DbSınavOgrenciModel.tbl_Kulup" Width="1.5" PointX="4.5" PointY="2.875" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,16 @@
+﻿@*@Model IEnumerable<IlkMvc.Entities.Category>*@
+
+    @{
+        ViewData["Title"] = "Ana Sayfa";
+    }
+
+    <br />
+
+    <ul>
+        @foreach (var p in Model)
+        {
+            <li>@p.CategoryName</li>
+        }
+    </ul>
+    <input id="txtCategory" type="text" />
+<input id="BtnList" type="button" value="Listele" width="500"/>

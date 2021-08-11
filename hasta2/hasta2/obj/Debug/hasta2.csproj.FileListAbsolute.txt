@@ -1,0 +1,13 @@
+C:\Users\MONSTER\source\repos\hasta2\hasta2\bin\Debug\hasta2.exe.config
+C:\Users\MONSTER\source\repos\hasta2\hasta2\bin\Debug\hasta2.exe
+C:\Users\MONSTER\source\repos\hasta2\hasta2\bin\Debug\hasta2.pdb
+C:\Users\MONSTER\source\repos\hasta2\hasta2\bin\Debug\System.Data.OleDb.dll
+C:\Users\MONSTER\source\repos\hasta2\hasta2\bin\Debug\System.Data.OleDb.xml
+C:\Users\MONSTER\source\repos\hasta2\hasta2\obj\Debug\hasta2.csprojAssemblyReference.cache
+C:\Users\MONSTER\source\repos\hasta2\hasta2\obj\Debug\hasta2.Form1.resources
+C:\Users\MONSTER\source\repos\hasta2\hasta2\obj\Debug\hasta2.Properties.Resources.resources
+C:\Users\MONSTER\source\repos\hasta2\hasta2\obj\Debug\hasta2.csproj.GenerateResource.cache
+C:\Users\MONSTER\source\repos\hasta2\hasta2\obj\Debug\hasta2.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\hasta2\hasta2\obj\Debug\hasta2.csproj.CopyComplete
+C:\Users\MONSTER\source\repos\hasta2\hasta2\obj\Debug\hasta2.exe
+C:\Users\MONSTER\source\repos\hasta2\hasta2\obj\Debug\hasta2.pdb
